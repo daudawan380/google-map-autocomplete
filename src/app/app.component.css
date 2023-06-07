@@ -1,0 +1,7 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.ms-5{
+    margin-left: 5%;
+}
